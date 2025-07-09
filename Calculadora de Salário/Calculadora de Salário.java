@@ -16,8 +16,8 @@ public class Main {
 			htr = sc.nextInt();
 			vlrph = sc.nextDouble();
 			double salario = htr * vlrph;
-			System.out.printf("NUMBER = %d%n", nmdfun);
-			System.out.printf("SALARY = %.2f%n", salario);
+			System.out.printf("NUMBER ID = %d%n", nmdfun);
+			System.out.printf("SALARY = U$ %.2f%n", salario);
 		}
 	}
 
