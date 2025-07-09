@@ -1,21 +1,24 @@
-<h1>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java Logo" height="50">
-  Meus Projetos em Java
-</h1>
+# 📁 Exercícios do Curso Java COMPLETO
 
-<p>
-  Esta pasta contém <strong>todos os projetos em Java</strong> que desenvolvi até agora. 
-  Fique à vontade para <strong>explorar, analisar e testar</strong> cada um deles!
-</p>
+Bem-vindo! Esta pasta contém todos os exercícios desenvolvidos por **Breno Diniz Nascimento** ao longo do curso:
 
-<p>
-  Cada projeto possui seu próprio diretório com um <code>README.md</code> explicando como ele funciona, suas funcionalidades, tecnologias utilizadas e instruções para execução.
-</p>
+---
 
-<p>
-  Sinta-se livre para dar feedbacks, abrir issues ou sugestões. Espero que goste dos trabalhos e que eles possam servir de inspiração ou aprendizado para você também!
-</p>
+### **Java COMPLETO: Programação Orientada a Objetos + Projetos**
 
-<hr>
+O curso mais didático e completo de Java e OO, com prática em:
 
-<p><strong>Obrigado por visitar! 🚀</strong></p>
+- Programação Orientada a Objetos (POO)
+- UML
+- JDBC
+- JavaFX
+- Spring Boot
+- JPA & Hibernate
+- MySQL e MongoDB
+- E muito mais!
+
+---
+
+Aqui você encontrará os códigos organizados por assunto ou módulo, demonstrando os conceitos aprendidos durante o curso.
+
+📬 **Contato:** [br3nozy@gmail.com](mailto:br3nozy@gmail.com)
