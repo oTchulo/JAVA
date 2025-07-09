@@ -47,4 +47,4 @@ SALARY = 550.00
 </pre>
 
 <h2>👨‍💻 Autor</h2>
-<p>Feito por <strong>Seu Nome</strong> - <a href="mailto:br3nozy@gmail.com">br3nozy@gmail.com</a></p>
+<p>Feito por <strong>Breno Diniz Nascimento</strong> - <a href="mailto:br3nozy@gmail.com">br3nozy@gmail.com</a></p>
